@@ -1,2 +1,2 @@
 # Hello-World
-test repo
+test repository for git demonstration for learning github practice.
